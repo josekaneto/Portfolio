@@ -9,3 +9,4 @@ MongoDB
 MS SQL Server
 HTML5
 CSS3
+Figma
