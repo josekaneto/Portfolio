@@ -1,4 +1,4 @@
-# Portifolio
+# Portfolio
 
 Site de portifólio em relação aos meus projetos feitos durante as aulas de TI do ensino médio na Fiap School
 
